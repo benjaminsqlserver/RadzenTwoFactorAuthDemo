@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.0.0
+MinimumVisualStudioVersion = 17.0.0.0
+
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HouseholdAppliancesApp.Server", "Server\HouseholdAppliancesApp.Server.csproj", "{517388E3-0922-438F-982F-8BC8BD70AEA0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HouseholdAppliancesApp.Client", "Client\HouseholdAppliancesApp.Client.csproj", "{799E42D6-E27B-4C34-9C12-0911E8929174}"
+EndProject
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+
+		{799E42D6-E27B-4C34-9C12-0911E8929174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799E42D6-E27B-4C34-9C12-0911E8929174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799E42D6-E27B-4C34-9C12-0911E8929174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799E42D6-E27B-4C34-9C12-0911E8929174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{517388E3-0922-438F-982F-8BC8BD70AEA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517388E3-0922-438F-982F-8BC8BD70AEA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517388E3-0922-438F-982F-8BC8BD70AEA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517388E3-0922-438F-982F-8BC8BD70AEA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D126C2B-0728-4E6B-AB11-671F2220BF97}
+	EndGlobalSection
+EndGlobal
